@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
