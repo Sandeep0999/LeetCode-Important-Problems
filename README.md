@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
+| [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
 ## Tree
 |  |
 | ------- |
