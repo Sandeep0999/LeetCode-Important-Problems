@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0076-minimum-window-substring) |
+| [0133-clone-graph](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0133-clone-graph](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0133-clone-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
