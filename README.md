@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0133-clone-graph) |
+| [0322-coin-change](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0322-coin-change](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Greedy
 |  |
