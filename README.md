@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0289-game-of-life) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Dynamic Programming
 |  |
@@ -197,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
 <!---LeetCode Topics End-->
