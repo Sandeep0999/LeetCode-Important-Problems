@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0383-ransom-note) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0191-number-of-1-bits) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
