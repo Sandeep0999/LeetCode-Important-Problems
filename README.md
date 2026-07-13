@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
@@ -215,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
