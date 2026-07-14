@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0137-single-number-ii) |
@@ -175,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
