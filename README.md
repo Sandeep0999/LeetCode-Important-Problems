@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
 | [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
+| [2384-largest-palindromic-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2384-largest-palindromic-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
+| [2384-largest-palindromic-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2384-largest-palindromic-number) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Bucket Sort
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
+| [2384-largest-palindromic-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2384-largest-palindromic-number) |
 ## Tree
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2384-largest-palindromic-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2384-largest-palindromic-number) |
 ## Randomized
 |  |
 | ------- |
