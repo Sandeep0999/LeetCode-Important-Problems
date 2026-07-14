@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
 | [1288-remove-covered-intervals](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1288-remove-covered-intervals) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1288-remove-covered-intervals](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1288-remove-covered-intervals) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 ## Randomized
 |  |
