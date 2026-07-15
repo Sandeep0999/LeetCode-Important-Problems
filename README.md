@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
 | [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
 | [2384-largest-palindromic-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2384-largest-palindromic-number) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3169-count-days-without-meetings](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/3169-count-days-without-meetings) |
 ## Divide and Conquer
