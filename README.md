@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0289-game-of-life) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
 ## Graph Theory
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
 ## Shortest Path
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
 ## Bit Manipulation
