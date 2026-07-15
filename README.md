@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0076-minimum-window-substring) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0012-integer-to-roman) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0076-minimum-window-substring) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
 ## Math
