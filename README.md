@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
