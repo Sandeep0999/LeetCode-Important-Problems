@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0202-happy-number) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0066-plus-one) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0322-coin-change) |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
