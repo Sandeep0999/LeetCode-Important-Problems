@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0503-next-greater-element-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0503-next-greater-element-ii) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0901-online-stock-span) |
 ## String Matching
 |  |
