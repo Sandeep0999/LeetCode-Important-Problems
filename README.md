@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
+| [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
 | [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
 | [2384-largest-palindromic-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2384-largest-palindromic-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0503-next-greater-element-ii) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
 | [1288-remove-covered-intervals](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1288-remove-covered-intervals) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
 ## Math
 |  |
