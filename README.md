@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
