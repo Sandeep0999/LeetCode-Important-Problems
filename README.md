@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
 | [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1288-remove-covered-intervals) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [2284-sender-with-largest-word-count](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2284-sender-with-largest-word-count) |
 | [2384-largest-palindromic-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/2384-largest-palindromic-number) |
 ## Tree
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1695-maximum-erasure-value) |
 ## Math
