@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0901-online-stock-span](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
 ## Binary Tree
 |  |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Sliding Window
 |  |
@@ -277,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Graph Theory
 |  |
@@ -340,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
