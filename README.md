@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0687-longest-univalue-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0687-longest-univalue-path) |
 ## Graph Theory
 |  |
 | ------- |
