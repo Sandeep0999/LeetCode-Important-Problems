@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0202-happy-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0134-gas-station) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0347-top-k-frequent-elements) |
