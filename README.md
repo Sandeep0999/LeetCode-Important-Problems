@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0503-next-greater-element-ii) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
+| [0741-cherry-pickup](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0741-cherry-pickup) |
 | [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0741-cherry-pickup](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0741-cherry-pickup) |
 ## Greedy
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0289-game-of-life) |
+| [0741-cherry-pickup](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0741-cherry-pickup) |
 | [0909-snakes-and-ladders](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0909-snakes-and-ladders) |
 ## Bit Manipulation
 |  |
