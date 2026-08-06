@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0289-game-of-life) |
 | [0741-cherry-pickup](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0741-cherry-pickup) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Stack
 |  |
