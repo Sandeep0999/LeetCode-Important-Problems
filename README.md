@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0901-online-stock-span) |
 ## Design
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0496-next-greater-element-i) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0904-fruit-into-baskets) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0503-next-greater-element-ii) |
 | [0648-replace-words](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0658-find-k-closest-elements) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0901-online-stock-span) |
 ## String Matching
