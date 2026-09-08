@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0134-gas-station) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0191-number-of-1-bits) |
 ## Trie
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0037-sudoku-solver) |
+| [0090-subsets-ii](https://github.com/Sandeep0999/LeetCode-Important-Problems/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
 | ------- |
